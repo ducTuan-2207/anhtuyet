@@ -402,7 +402,7 @@ i {
 }
 @media (max-width: 740px) {
   body {
-    background: url("./img/tuyet.jpg") cover no-repeat;
+    background: url("./img/tuyet.jpg") cover no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
